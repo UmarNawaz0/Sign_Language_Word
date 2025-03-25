@@ -66,3 +66,4 @@ Process data to update landmark_data.pickle.
 
 Rerun MODEL_TRAIN.py for new classifications.
 
+I have uploaded a dataset of landmarks, just use that but it is only for single word, so make sure to expand this more, add few more words
